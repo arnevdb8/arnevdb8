@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am new since 30/11/24.
+
+
+Bye
 <!--
 **arnevdb8/arnevdb8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
